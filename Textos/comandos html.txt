@@ -1,0 +1,47 @@
+Lista de comandos Html
+
+- <hgroup> : Agrupa um certa quantidade de títulos da página;
+- <br/>: Faz a quebra de linha;
+- <wbr/> Faz a quebra de um termo muito grande;
+- &nbsp; : Dá um espaço entre palavas sem quebrar a linha;
+- &shy; : Adiciona um hirfem quando ha quebra de uma palava;
+- <b>: Coloca a palavra em negrito;
+- <i>: Coloca a palavra e itálico;
+- <em>: Coloca a palavra em enfase: 
+- <del>: Coloca um traço no texto para indicar uma rasura; 
+- <span>: Serve para formatar um pequeno trecho de um texto;
+- <sup>: Cria uma pala um pouco acima da outra
+- <sub>: Cria uma palavra um pouco abaixo da outra
+- <code>: formata um texto como um código
+- <pre>: considera a formatação que esta no arquivo html, exibindo exatamente o que esta escrito.
+- <figure classe= "nome da classe">: atribui uma classe a imagem
+- <ol>: cria uma lista ordenada, pode ser alterado com o comando type mudando o tipo de numero, letra ou algorismos romanos. O parametro start determina de que ordem a lista vai começar, esse parametro só aceita numeros.
+- <ul>: Cria uma lista sem ser ordenada, pose mudar os demarcadores com o comando type e com os valores square, circle, disc.
+- <il>: Cria os itens da lista
+- <>
+- <>
+- <>
+
+Lista de comandos CSS
+
+- text decoration: underline; : Deixa o texto sublinhado
+- text decoration: overline; : Cria uma linha acima do texto
+- text decoration: line-through;: Cria uma rasura no texto
+- text decoration: none; : Deixa o texto sem nenhuma formatação
+- font-weight: Controla a quantidade de negrito de um texto, pode ser normal, bold ou bolder, e ainda por numero de 100 a 900
+- text-align:"center" : Alinha o texto no centro da página
+- text-align:"left" : Alinha o texto a esqurda
+- text-align:"right" : Alinha o texto a direita
+- text-align:"justify" : No parágrafo, alinha o lado direito e esquerdo do texto
+- /* */ : Texto comentado;
+- figure.nome da classe: Faz referência a uma imagem colocada no arquivo HTML
+- border : Cria uma borda em um elemanto da página, define-se tamanha (em pixel), se é solida e a cor
+- box-shadow: Cria uma sombra na borda da umagem para dar um distaque
+- box-sizing: Ajusta um elemento dentro de uma borda
+- position: Determina a posição do elemento na página
+- top: Deternima a pasição do elemento na parte superior da página
+- hover: É um efeito que ativa outro efeito em um elemento da página
+- trasition: Determina o tempo de execução de um efeito
+- paddin: determina o espaçamento entre elementos
+- 
+ 

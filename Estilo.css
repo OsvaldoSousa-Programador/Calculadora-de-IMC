@@ -1,0 +1,162 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(7, 7, 7);
+}
+
+div#interação{
+    width: 900px;
+    margin: 93px auto 10px auto;
+    /*box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.5);*/ 
+    padding: 10px 20px 10px 20px;
+    font-family: "Open Sans", sans-serif;
+}
+div#interação h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #a36852;
+}
+
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+
+/*Fomatação de imagens*/
+
+figure.Estetoscopio{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 145px;
+}
+
+figure.faixaIMC{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 85px;
+}
+
+figure.dieta{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 145px;
+}
+
+figure.diagnostico{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 145px;
+}
+
+figure.malhar{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 145px;
+}
+
+figure.medir{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 145px;
+}
+
+figure.gordofobia{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 145px;
+}
+
+figure.corpos{
+    border: 8px solid rgb(255, 255, 255);
+    display: inline-block;
+    box-shadow: 1px 1px 4px black;
+    position: relative;
+    left: 145px;
+}
+
+figure.Tarja{
+    position: absolute;
+    top: 15px;
+    left: 280px;
+    
+}
+
+/*Formatação do Menu de navegação*/
+
+nav#menu{
+    display: block;
+} 
+
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase; 
+    position: absolute;
+    top: 177px;
+    left: 550px;  
+}
+
+nav#menu li{
+    display: inline-block;
+    background-color: #a36852;
+    padding: 10px;
+    margin:4px;
+    border-radius: 8px;
+    transition: background-color 0.5s ;
+    box-shadow: 0px 0px 3px black;
+    border-radius: 8px; 
+    font-family: "Open Sans", sans-serif;
+}
+
+nav#menu li:hover{
+    background-color: #25d693;
+    
+}
+
+nav#menu h1{
+    display: none;
+}
+
+nav#menu h2{
+    font-size: xx-large;
+    font-size: 80px;
+    font-family:'Montserrat', sans-serif;
+    color: white;
+    text-transform: uppercase; 
+    position: absolute;
+    top: 0px;
+    left: 700px;
+}
+
+nav#menu a{
+    color:rgb(250, 250, 250);
+    text-decoration: none;
+}
+
+nav#menu a:hover{
+    color:rgb(7, 7, 7);
+    text-decoration: underline;
+}
+
+.quadrado {
+    width: 1895px;
+    height: 250px;
+    background-color: #375f23;
+    margin: -3px;
+}
+
+
+
+
